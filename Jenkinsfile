@@ -80,7 +80,7 @@ pipeline {
 
                     echo ""
                     echo "--- API Health ---"
-                    curl -f http://localhost:5000/api/health || \
+                    docker exec quizmaster-api wget -qO- http://localhost:5000/api/health || \
                         (echo "API health check FAILED" && exit 1)
                 """
             }
