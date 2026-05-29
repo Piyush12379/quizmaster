@@ -1,6 +1,6 @@
-# QuizMaster — Aptitude Prep Portal
+# QuizMaster
 
-> A microservices application for aptitude & programming quiz preparation.
+> A versatile microservices application for creating and taking any type of quizzes.
 > Built with React · Node/Express · MongoDB · Docker · Jenkins.
 
 ---
