@@ -1,7 +1,7 @@
 # QuizMaster
 
 > A versatile microservices application for creating and taking any type of quizzes.
-> Built with React · Node/Express · MongoDB · Docker · Jenkins.
+> Built with React · Node/Express · MongoDB · Docker · Jenkins · Git.
 
 ---
 
